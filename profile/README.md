@@ -14,7 +14,6 @@ Analyzify is a comprehensive data analytics solution that provides advanced data
 ### 🚀 Quick Links
 
 - [Documentation](https://docs.analyzify.com)
-- [Integration Guide](https://docs.analyzify.com/integration)
 - [Data Layer Reference](https://docs.analyzify.com/data-layers-parameters)
 
 ### 💡 Get Started
